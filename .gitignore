@@ -1,3 +1,6 @@
 .DS_Store
 LICENSE
 figwheel_server.log
+out/accountant/core.js
+target/
+.lein-env
